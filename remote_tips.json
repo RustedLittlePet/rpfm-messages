@@ -28,6 +28,14 @@
           "message": "test133243",
           "url": "https://www.google.com/search?client=firefox-b-d&q=crate+open",
           "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 1610345829477444372,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1645293360960,
+          "message": "dacsdsfadsdfs",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
         }
       ]
     }
