@@ -2,16 +2,6 @@
   "version": 0,
   "tips": {
     "warhammer_2": {
-      "db/_kv_experience_bonuses_tables": [
-        {
-          "id": 6489967329338031064,
-          "user": "Daniel, the Demon Prince",
-          "timestamp": 1644968752335,
-          "message": "test1",
-          "url": "",
-          "path": "db/_kv_experience_bonuses_tables"
-        }
-      ],
       "db/_kv_battle_ai_ability_usage_variables_tables": [
         {
           "id": 2338053190346905671,
@@ -28,6 +18,24 @@
           "message": "test133243",
           "url": "https://www.google.com/search?client=firefox-b-d&q=crate+open",
           "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 378616776555351226,
+          "user": "Daniel, the Demon Princeasd",
+          "timestamp": 1645285721962,
+          "message": "asdadasda",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        }
+      ],
+      "db/_kv_experience_bonuses_tables": [
+        {
+          "id": 6489967329338031064,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1644968752335,
+          "message": "test1",
+          "url": "",
+          "path": "db/_kv_experience_bonuses_tables"
         }
       ]
     }
