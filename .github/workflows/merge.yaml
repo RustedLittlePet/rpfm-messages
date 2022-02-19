@@ -26,5 +26,6 @@ jobs:
             pr_title: "Merge tip ${{ github.ref }} into master"
             pr_body: "Automerge"
             pr_draft: true
+            pr_allow_empty: true
             github_token: ${{ secrets.USER_TOKEN }}
 
