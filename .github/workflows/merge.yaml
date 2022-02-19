@@ -1,0 +1,24 @@
+name: MergeRequestOnPush
+
+on:
+  push:
+    branches:
+      - '*'         # matches every branch
+      - '!master'   # excludes master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: pull-request
+        uses: m4heshd/pull-request@third-party-repos
+        with:
+            destination_branch: "master"
+            destination_repository: "Frodo45127/rpfm-messages"
+            pr_title: "Merge tip ${{ github.ref }} into master"
+            pr_body: "Automerge"
+            pr_draft: true
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+
