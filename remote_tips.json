@@ -2,16 +2,6 @@
   "version": 0,
   "tips": {
     "warhammer_2": {
-      "db/_kv_experience_bonuses_tables": [
-        {
-          "id": 6489967329338031064,
-          "user": "Daniel, the Demon Prince",
-          "timestamp": 1644968752335,
-          "message": "test1",
-          "url": "",
-          "path": "db/_kv_experience_bonuses_tables"
-        }
-      ],
       "db/_kv_battle_ai_ability_usage_variables_tables": [
         {
           "id": 2338053190346905671,
@@ -28,6 +18,120 @@
           "message": "test133243",
           "url": "https://www.google.com/search?client=firefox-b-d&q=crate+open",
           "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 378616776555351226,
+          "user": "Daniel, the Demon Princeasd",
+          "timestamp": 1645285721962,
+          "message": "asdadasda",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 1897506863735980386,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1645121273482,
+          "message": "yayayayaya",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 378616776555351226,
+          "user": "Daniel, the Demon Princeasd",
+          "timestamp": 1645285721962,
+          "message": "asdadasda",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 233805390346905671,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1645050277829,
+          "message": "dsfsds",
+          "url": "aaaaa",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 11024383914113116614,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1645274761549,
+          "message": "dsgfgdsffdg",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 5300035861952836878,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1645116690312,
+          "message": "sadasdadadada",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 8090606440808259111,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1645288456830,
+          "message": "dasfsafdsdfsddfsfdssd",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 3642450477678593252,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1645288638894,
+          "message": "sacdasdassasasa",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 6624313539516002141,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1645274261900,
+          "message": "kj.,hjhg,jhkg,,hjkg,jhkgj,hk",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 12630861125661235300,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1645290540550,
+          "message": "adsfsadadsffds",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 12930033911092076710,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1645290995911,
+          "message": "daeqsadsfasd",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 4945452933257416456,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1645291472027,
+          "message": "sdafasdfasdfasdffds",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        },
+        {
+          "id": 15131178176273871231,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1645292151004,
+          "message": "asdasdasddsadsa",
+          "url": "",
+          "path": "db/_kv_battle_ai_ability_usage_variables_tables"
+        }
+      ],
+      "db/_kv_experience_bonuses_tables": [
+        {
+          "id": 6489967329338031064,
+          "user": "Daniel, the Demon Prince",
+          "timestamp": 1644968752335,
+          "message": "test1",
+          "url": "",
+          "path": "db/_kv_experience_bonuses_tables"
         }
       ]
     }

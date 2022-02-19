@@ -18,9 +18,9 @@ jobs:
         id: extract_branch
 
       - name: pull-request
-        uses: m4heshd/pull-request@third-party-repos
+        uses: Frodo45127/pull-request@third-party-repos
         with:
-            destination_branch: "remotes/origin/master"
+            destination_branch: "master"
             destination_repository: "Frodo45127/rpfm-messages"
             pr_title: "Merge tip ${{ github.ref }} into master"
             pr_body: "Automerge"
